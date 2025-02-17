@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Hello, explore through my site, you can check out my resume, my research, my projects, and more!
 
-[Link to another page](./another-page.md).
+# [My Resume](./another-page.md).
+
+# [My Projects](./another-page.md).
 
 # [My Research](./research.md).
 
