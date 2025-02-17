@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Hello, explore through my site, you can check out my resume, my research, my projects, and more!
+### Azalea Shillington, Hello, explore through my site, you can check out my resume, my research, my projects, and more!
 
 # [My Resume](./another-page.md).
 
