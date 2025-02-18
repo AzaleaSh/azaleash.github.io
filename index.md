@@ -2,10 +2,20 @@
 layout: default
 ---
 
-### Azalea Shillington, Hello, explore through my site, you can check out my resume, my research, my projects, and more!
+# Home
 
-# [My Resume](./another-page.md).
+Hi! Welcome to my personal site. I'm Azalea, a high school senior from Cincinnati, Ohio, passionate about astrophysics.  I'm a STEM leader and advocate, currently exploring the fascinating worlds of cosmological and atomic physics. From leading robotics teams to founding youth councils, I'm driven to inspire and empower others.
 
-# [My Projects](./another-page.md).
+## [About me](./about-me.md).
 
-# [My Research](./research.md).
+## [Research](./research.md).
+
+## [Projects](./projects.md).
+
+## [FIRST Robotics Journey](./first.md).
+
+## [Figure Skating](./figureskating.md).
+
+## [Resume](./resume.md).
+
+## [Contact](./contact.md).
