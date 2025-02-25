@@ -4,7 +4,7 @@ layout: default
 
 # Resume
 
-### <p><a href="/assets/resume.pdf" download="shillington-resume.pdf">Download My Resume</a></p>
+### <a href="/assets/resume.pdf" download="shillington-resume.pdf">Download My Resume</a>
 
 ## Experiences
 
