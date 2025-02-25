@@ -14,7 +14,7 @@ Hi! Welcome to my personal site. I'm Azalea, a high school senior from Cincinnat
 
 ## [FIRST Robotics](./first.md).
 
-## [Figure Skating](./figureskating.md).
+## [Figure Skating](./igureskating.md).
 
 ## [Resume](./resume.md).
 
