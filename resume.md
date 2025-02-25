@@ -20,7 +20,7 @@ layout: default
 
 > Research Mentee (2024)
 
-* Researched black hole accretion discs through analysis of simulated data in Python.
+* Researched X-Ray binary accretion disks through analysis of simulated data in Python.
 * Presented research to CIERA Department
 
 ### Ohio State University Department of Astronomy and Physics
