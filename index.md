@@ -13,7 +13,7 @@ Hi! Welcome to my corner of the internet. I'm Azalea, a student from Cincinnati,
 
 ## [FIRST Robotics](./first.md).
 
-## [Figure Skating](./igureskating.md).
+## [Figure Skating](./figureskating.md).
 
 ## [Resume](./resume.md).
 
