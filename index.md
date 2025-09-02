@@ -11,10 +11,6 @@ Hi! Welcome to my corner of the internet. I'm Azalea, a student from Cincinnati,
 
 ## [Projects](./projects.md).
 
-## [FIRST Robotics](./first.md).
-
-## [Figure Skating](./figureskating.md).
-
 ## [Resume](./resume.md).
 
 ## [Contact](./contact.md).
