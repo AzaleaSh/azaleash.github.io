@@ -8,10 +8,13 @@ Hello! Get to know some of my personal projects!
 
 ## Illinois Space Society 
 
-Currently working on the E-Hardware subteam for Spaceshot. Our next rocket's ancipitated launch is November 8th, 2025.
+Active member of the Illinois Space Society working on the E-Hardware subteam for Spaceshot. My role involes designing and creating PCBs to handle live data, telemetry, and in-flight events. Our next rocket's ancipitated launch is November 8th, 2025.
 
-## Fourier Analyis on Dynamical Systems
+## Modeling attractors using dynamical systems, Python, and Matplotlib
 
+This project focused on the chaotic and unpredictable behavior of the Lorenz Attractor, a classic example of deterministic chaos. I used Python to visualize the "butterfly effect", demonstrating how a tiny initial difference leads to widely divergent paths over time. Then after quantifing this divergence, and showing how the distance between trajectories grows exponentially, there was an unexpected characteristic oscillatory frequency. Suggesting an underlying rhythm within the chaotic system, which should not exist in a dynamical system.
+
+If you would like to read more, here is the [GitHub link](https://github.com/AzaleaSh/Attractors) 
 
 ## MachBusters Robotics
 
