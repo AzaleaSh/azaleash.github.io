@@ -12,6 +12,8 @@ Active member of the Illinois Space Society working on the E-Hardware subteam fo
 
 ## Modeling attractors using dynamical systems, Python, and Matplotlib
 
+![Lorenz Attractor](assets/img/Screenshot 2025-09-10 154425.png)
+
 This project focused on the chaotic and unpredictable behavior of the Lorenz Attractor, a classic example of deterministic chaos. I used Python to visualize the "butterfly effect", demonstrating how a tiny initial difference leads to widely divergent paths over time. Then after quantifing this divergence, and showing how the distance between trajectories grows exponentially, there was an unexpected characteristic oscillatory frequency. Suggesting an underlying rhythm within the chaotic system, which should not exist in a dynamical system.
 
 If you would like to read more, here is the [GitHub link](https://github.com/AzaleaSh/Attractors).
