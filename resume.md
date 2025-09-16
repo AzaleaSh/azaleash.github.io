@@ -8,50 +8,42 @@ layout: default
 
 ## Experiences
 
-### FIRST Robotics Competition (FRC) - Team 9097
+### The Illinois Space Society
 
-> President (2023 - Current), Outreach and Fundraising Lead (2022-2023)
+> Avionics Engineer (August 2025 - Current)
 
-* Currently mananging a team of 25 members through fast-paced, expensive, complex, engineering-based projects
-* As Outreach and Fundraising Lead, succesfully raised over $40,000 as well as maintained a team presence on social media - reaching over 10 million individuals.
-* Currently mentoring an FLL team - #32021 AV8Rs to ensure their success and development.
+* Actively designing avionics for high powered rocketry in attempt to launch a rocket to reach the Karman line in June of 2026.
+* Focused on PCB design that handles live data, telemetry, and in-flight events.
+
+### YMCA Greater Dayton
+
+> Summer Camp Program Leader (May 2025 - August 2025)
+
+* Managed a team of fellow employees, leading multiple week-long overnight youth development programs.
+* Designed and executed daily programming focused on mentorship and team-building.
+
+### MachBusters Robotics
+
+> President (May 2023 - May 2025), Outreach & Fundraising Lead (Jan 2023 - May 2023)
+
+* Led a team of 24-29 high school students through the full design, build, and competition cycle for complex, competitive robotics systems.
+* Directed project timelines, resource allocation, and team dynamics to achieve challenging technical objectives.
+
+### Ohio State University Department of Astronomy
+
+> Research Mentee (August 2024 - January 2025)
+
+* Researched coronal heating mechanisms under the guidance of Prof. Sultana Nahar.
+* Presented research findings in an oral presentation at ICMMS in Dahab, Egypt.
 
 ### Northwestern Center for Interdisiplinary Exploration and Research in Astrophysics (CIERA)
 
 > Research Mentee (2024)
 
-* Researched X-Ray binary accretion disks through analysis of simulated data in Python.
-* Presented research to CIERA Department
-
-### Ohio State University Department of Astronomy and Physics
-
-> Research Mentee (2024-2025)
-
-* Created a synthesis thesis on Heating Mechanisms of the Solar Corona.
-* Research was defended to a board of proffesors and presented at the ICCMS-6 conference in Dahad, Egypt.
-* Oral presentation recieved best presentation in basic science at the ICCMS-6
+* Researched on variability in black hole binary accretion disks under Prof. Deepika Bollimpalli
+* Analyzed complex simulation data using Python to predict astrophysical behaviors by analyzing local frequencies.
 
 
-### Varsity Academic Quiz Team
-
-> Captain (2024 - 2025), Member (2023-2024)
-
-* Contributed to the academic quiz team, showcasing strong knowledge, quick thinking and effective communication skills in competitive events.
-* Managing a team of 26 members in strategic direct as well as maintaining media presence.
-
-### Varsity Track & Field - Winter and Spring
-
-> Representative (2024 - 2025), Varsity Athlete (2021-2025)
-
-* Specializing in shotput and discus, simultanesously focuisng on athletic physique development and team collaboration.
-* Represented Track & Field on District Board of Athletics
-
-### Astronomy Club
-
-> President and founder (2023 - 2025)
-
-* Succesfully managed a board of 5 individuals as well as conducting monthly meetings for 15 regular members. Topics covered include diverse areas within astronomy such as black holes, constellatiosn, theories and more.
-* Managed events at elementary schools to teach students about the sun and observational astronomy.
 
 ## Awards
 
