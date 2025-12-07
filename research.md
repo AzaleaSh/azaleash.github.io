@@ -4,6 +4,12 @@ layout: default
 
 # Research
 
+### Terahertz Intensity Mapper - 2025
+* Member of the Fillipini Lab working on TIM
+* Designed and fabricated support circuitry for  for the Terahertz Intensity Mapper (TIM). 
+* Developed specialized test electronics for optical components in TIM, to ensure reliable operation at temperatures down to 4 Kelvin (liquid helium).
+* [About TIM on NASA](https://science.jpl.nasa.gov/projects/tim/)
+
 ### Coronal Heating Mechanisms - 2024
 
 *   Done under [Prof. Sultana N. Nahar](https://www.astronomy.ohio-state.edu/nahar.1) at the Ohio State University
