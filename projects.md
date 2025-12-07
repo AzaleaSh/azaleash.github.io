@@ -22,6 +22,6 @@ If you would like to read more, here is the [GitHub link](https://github.com/Aza
 
 ![Robot!](assets/img/images.jpg)
 
-Wow! Here is our robot from the robotics team I lead throughout high school. Interesting techincal notes that this features a custom-built Swerve Drive chassis for omnidirectional movement. There is custom-designed electrical and control systems, including a Limelight camera for autonomous targeting. The robot is capable of scoring both elements and performing a telescoping climb to suspend itself at the end of a match based on the 2025 FRC game, [Reefscape](https://www.youtube.com/watch?v=YWbxcjlY9JY).
+Wow! Here is our robot from the robotics team I lead throughout high school. Interesting techincal notes that this features a custom-built Swerve Drive chassis for omnidirectional movement. There is custom-designed electrical and control systems, including a Limelight camera for autonomous targeting. The robot is capable of scoring one element based on the 2025 FRC game, [Reefscape](https://www.youtube.com/watch?v=YWbxcjlY9JY).
 
 [back](./)
