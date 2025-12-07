@@ -8,19 +8,19 @@ layout: default
 
 ## Experiences
 
+### Filippini Lab at University of Illinois
+
+> Reserach Assistant (October 2025 - Current)
+
+*Designed and fabricated PCBs and support circuitry for cryogenic readout systems for the Terahertz Intensity Mapper (TIM). 
+*Developed specialized test electronics for optical components in TIM, to ensure reliable operation at temperatures down to 4 Kelvin (liquid helium).
+
 ### The Illinois Space Society
 
-> Avionics Engineer (August 2025 - Current)
+> Avionics Engineer (August 2025 - December 2025)
 
 * Actively designing avionics for high powered rocketry in attempt to launch a rocket to reach the Karman line in June of 2026.
 * Focused on PCB design that handles live data, telemetry, and in-flight events.
-
-### YMCA Greater Dayton
-
-> Summer Camp Program Leader (May 2025 - August 2025)
-
-* Managed a team of fellow employees, leading multiple week-long overnight youth development programs.
-* Designed and executed daily programming focused on mentorship and team-building.
 
 ### MachBusters Robotics
 
