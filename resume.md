@@ -12,8 +12,8 @@ layout: default
 
 > Reserach Assistant (October 2025 - Current)
 
-*Designed and fabricated PCBs and support circuitry for cryogenic readout systems for the Terahertz Intensity Mapper (TIM). 
-*Developed specialized test electronics for optical components in TIM, to ensure reliable operation at temperatures down to 4 Kelvin (liquid helium).
+* Designed and fabricated PCBs and support circuitry for cryogenic readout systems for the Terahertz Intensity Mapper (TIM). 
+* Developed specialized test electronics for optical components in TIM, to ensure reliable operation at temperatures down to 4 Kelvin (liquid helium).
 
 ### The Illinois Space Society
 
